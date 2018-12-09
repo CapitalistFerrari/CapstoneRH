@@ -1,0 +1,8 @@
+C:\Users\Ryan\Desktop\CapstoneRHinventorysystem\CapstoneRHinventorysystem\bin\Debug\Data\Data.txt
+C:\Users\Ryan\Desktop\CapstoneRHinventorysystem\CapstoneRHinventorysystem\bin\Debug\CapstoneRHinventorysystem.exe.config
+C:\Users\Ryan\Desktop\CapstoneRHinventorysystem\CapstoneRHinventorysystem\bin\Debug\CapstoneRHinventorysystem.exe
+C:\Users\Ryan\Desktop\CapstoneRHinventorysystem\CapstoneRHinventorysystem\bin\Debug\CapstoneRHinventorysystem.pdb
+C:\Users\Ryan\Desktop\CapstoneRHinventorysystem\CapstoneRHinventorysystem\obj\Debug\CapstoneRHinventorysystem.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\CapstoneRHinventorysystem\CapstoneRHinventorysystem\obj\Debug\CapstoneRHinventorysystem.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\CapstoneRHinventorysystem\CapstoneRHinventorysystem\obj\Debug\CapstoneRHinventorysystem.exe
+C:\Users\Ryan\Desktop\CapstoneRHinventorysystem\CapstoneRHinventorysystem\obj\Debug\CapstoneRHinventorysystem.pdb

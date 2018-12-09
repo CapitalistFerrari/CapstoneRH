@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapstoneRHinventorysystem", "CapstoneRHinventorysystem\CapstoneRHinventorysystem.csproj", "{637450C6-5FDA-413C-99C8-67FE21E00077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{637450C6-5FDA-413C-99C8-67FE21E00077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637450C6-5FDA-413C-99C8-67FE21E00077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637450C6-5FDA-413C-99C8-67FE21E00077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637450C6-5FDA-413C-99C8-67FE21E00077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {017B17AC-813D-4AB3-A5F6-CF1897C3F287}
+	EndGlobalSection
+EndGlobal
